@@ -1,5 +1,4 @@
-# Analysis and Modeling Projects in Python
-Welcome to my Github repository! Here you will find a collection of data science projects that demonstrate my skills and experience using Python. 
-These projects cover a wide range of data science tasks, including data cleaning, data visualization, machine learning, and deep learning models. 
-Python is my preferred tool for data analysis, modeling, and visualization, due to its flexibility for machine learning and deep learning tasks. 
-I hope you find these projects informative! Please feel free to explore them and contact me if you have any questions or comments.
+# FoodHub Analysis
+Welcome to my Github repository! 
+This is an old repo from my school days and the early days of ChatGPT. This was a sample dataset that I worked on to compare my work against what some other 
+individuals came up with. ChatGPT wrote almost all of the visualizations based on my prompts. I cleaned all of the data myself.
